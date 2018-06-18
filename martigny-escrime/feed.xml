@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B39DCEBF-B763-4545-A715-6F9934A6F017</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-06-15T19:01:38+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:17D5EB66-5B95-4CF0-9A8C-916617946F98</id>
+  <title>Accueil</title>
+  <title xmlns="urn:iweb:">Accueil</title>
+  <in-navbar xmlns="urn:iweb:">17D5EB66-5B95-4CF0-9A8C-916617946F98</in-navbar>
+  <link rel="alternate" href="Accueil.html"/>
+  <updated>2018-06-15T19:01:38.001+02:00</updated>
+  <content>Accueil</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B6CF8B53-FD69-4F81-AB7E-5B36F06B569D</id>
+  <title>Accueil_gris</title>
+  <title xmlns="urn:iweb:">Accueil_gris</title>
+  <in-navbar xmlns="urn:iweb:">B6CF8B53-FD69-4F81-AB7E-5B36F06B569D</in-navbar>
+  <link rel="alternate" href="Accueil_gris.html"/>
+  <updated>2018-06-15T19:01:38.002+02:00</updated>
+  <content>Accueil_gris</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4534E10B-E8E8-4BE1-8963-C58DE82F2EBA</id>
+  <title>Le club</title>
+  <title xmlns="urn:iweb:">Le club</title>
+  <in-navbar xmlns="urn:iweb:">4534E10B-E8E8-4BE1-8963-C58DE82F2EBA</in-navbar>
+  <link rel="alternate" href="Le_club.html"/>
+  <updated>2018-06-15T19:01:38.003+02:00</updated>
+  <content>Le club</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:97A3E141-B1CA-41CE-8887-030498C5B733</id>
+  <title>Informations</title>
+  <title xmlns="urn:iweb:">Informations</title>
+  <in-navbar xmlns="urn:iweb:">97A3E141-B1CA-41CE-8887-030498C5B733</in-navbar>
+  <link rel="alternate" href="Informations.html"/>
+  <updated>2018-06-15T19:01:38.004+02:00</updated>
+  <content>Informations</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:57830C23-1A10-4BC6-A270-D22A3E915DE0</id>
+  <title>Contacts</title>
+  <title xmlns="urn:iweb:">Contacts</title>
+  <in-navbar xmlns="urn:iweb:">57830C23-1A10-4BC6-A270-D22A3E915DE0</in-navbar>
+  <link rel="alternate" href="Contacts.html"/>
+  <updated>2018-06-15T19:01:38.005+02:00</updated>
+  <content>Contacts</content>
+ </entry>
+</feed>
